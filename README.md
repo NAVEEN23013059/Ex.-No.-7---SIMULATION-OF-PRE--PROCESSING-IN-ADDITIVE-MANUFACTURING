@@ -45,8 +45,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/NAVEEN23013059/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319555/29370373-a4c0-44ea-be03-245529fe2dd8)
+![image](https://github.com/NAVEEN23013059/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319555/fedf0703-1d91-4f33-bc3d-ce6e30b8b49b)
+
+
+### Name:S.NAVEEN
+### Register Number:212223240106
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
